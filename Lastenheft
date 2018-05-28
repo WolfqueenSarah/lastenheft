@@ -1,0 +1,26 @@
+# lastenheft
+
+- Kontakte
+   - mit Anzeige des Namens
+   - Anzeige der Firma bei der der Kontakt beschäftigt ist
+   - Anzeige der Kontakte, die der Kontakt in seiner Liste hat
+   - Adresse des jeweiligen Kontaktes
+   - E-Mail des jeweiligen Kontaktes
+   - eventuelle ander Kontaktdaten des Kontaktes
+   
+- Firmen
+   - Anzeige der Firma mit kapazitäten
+   - Anzeige der Mitarbeiter der Firma
+   - Anzeige einzelner für Kunden wichtige Daten der Firma, wie Adresse, evtl. Nummer, Kontaktperson.......
+   
+- Auflistung nach Kontakten
+   - Die Kontakte werden nach Namen sortiert angezeigt
+   - man kann sie alle einzelnen einsehen und auswählen
+   
+- Auflistung nach Firma
+   - Es zeigt die einzelnen Firmen an, nach Suchbegriffen oder anderen eingegebenen Dingen des Benutzers
+   
+- Löschen einzelner Daten
+   - Beim Löschen einer Firma soll gefragt werden, ob man auch alle Kontakte die Mitarbeiter der Firma sind ebenfalls entfernt werden          sollen
+   - Beim Löschen eines Kontaktes, soll die dazugehörige Firma nicht automatisch gelöscht werden.
+   
