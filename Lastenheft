@@ -24,3 +24,10 @@
    - Beim Löschen einer Firma soll gefragt werden, ob man auch alle Kontakte die Mitarbeiter der Firma sind ebenfalls entfernt werden          sollen
    - Beim Löschen eines Kontaktes, soll die dazugehörige Firma nicht automatisch gelöscht werden.
    
+- Suchfunktion
+   - Einfache Suchfuktion nach:
+     - Name
+     - Firma
+     - Adresse
+     - E-Mail
+     
