@@ -1,0 +1,56 @@
+# Pflichtenheft
+
+/F0001/ ->  Eine Funktion, die einem den genauen Kontakt anzeigt
+                   - mit Name
+                   - mit Adresse
+                   - mit Firma
+                   - mit möglichen weiteren Features
+
+/T0001/ ->  Max Mustermann klickt auf seinen Kontakt und sieht seinen Namen (Max Mustermann), evtl. ein Bild(wenn gewünsht), 
+            so wie seine Angaben
+                   - wie Name                            -> Max Mustermann
+                   - wie Adresse                         -> Mustersraße 1 1234 Musterstadt
+                   - wie die Firma in der man arbeitet   -> Musterengineering
+                   - wie Freunde                         -> Klara Klarstatt.......
+                   - wie mögliche weitere Features       -> Alter, eigene Angaben, ein Foto, Nummern.......
+                   
+                 
+/F0002/ ->  Anklicken eines bestimmten Dateneintrags: Durch Anklicken eines Buttons, wird die dazugehörige, 
+                     verlinkte Seite aufgerufen
+/T0002/ ->  Der Benutzer klickt auf den Dateneintrag einer Firma (Musterengineering), der Code schickt ihn dann auf die zugehörige 
+                     Seite von der Firma, in diesem Beispiel "Musterenineering" und er kann sich die dazugehörigen Dateneinträge ansehen
+                   - wie : Mitarbeiter
+                   - Stand der Firma
+                   - weitere Infos
+                     er hat aber ebenfalls die Möglchkeit auch wieder einer dieser Dateneinträge anzuklicken um z.B. zu erfahren 
+                     welche Mitarbeiter diese Firma hat. Wie z.B. Max Mustermann -> Mitarbeiter bei Musterengineering.....
+                     
+             
+/F0003/ ->  Suche nach Firmen: Der Benutzer kann direkt mit der Suchfunktion nach einer bestimmten Firma suchen, indem 
+                     er deren Name eingibt. Er bekommt dann eine Liste der Möglichkeiten, die bei Eingabe des Namens auftauchen, 
+                     ausgegeben und kann die von ihm gesuchte Firma aufrufen.
+                     
+/T0003/ ->  Max Mustermann sucht nach der Firma Musterengineering und gibt in das Suchfeld nacheinander die Buchstaben der 
+                     gesuchten Firma ein. Umso mehr Buchstaben er eingibt um so detailierter wird die Suche. 
+                     Am Ende sollte dann in der Suchleiste "Musterengineering" stehen und in der Suchausgabe sollte 
+                     sofern es nur eine Firma mit diesem Namen gibt nur eine Ausgabe geben, die ihn dann wenn der Name richtig war
+                     auch zu seiner angegebenen Firma bringt. So landet Max Mustermann dann auf der Seite von Musterengineering.
+                     
+                     
+/F0004/ ->  Eine Funktion, die einem die Daten in einer bestimmten Suchleiste ausgibt, wobei man dann gezielter nach 
+            bestimmten Sachen suchen kann. Diese Funktion arbeitet mit Filtern und mit Namen.
+            
+/T0004/ ->  Wenn Max Mustermann seine Kontakte nach Firma sortieren möchte. So zeigt es ihm alle Firmen an, die er in 
+            seiner Kontaktliste hat. Wenn er dann eine der Firmen anklickt, erscheinen alle Mitarbeiter dieser Firma und die, 
+            die er in seinen Kontakten drin hat, werden hervorgehoben. 
+            -> Max Musterman sieht eine Liste aller Firmen in seinen Kontakten.(in Alphabethischer Reihenfolge)
+               - Eifel GmbH
+               - Klarstattgroup
+               - Musterengineering
+                 usw.
+               Wenn er jetzt eine dieser Firmen anklickt
+                 z.B. Musterengineering, dann zeigt es ihm ganz oben den Chef der Firma an, in diesem Fall -> Max Mustermann
+                 - danach kommen (in Alphabetischer Reihenfolge) die anderen Mitarbeiter der Firma. Ebenso steht bei jedem Mitarbeiter, 
+                   den Max Mustermann in seiner Kontaktliste hat ein vermerk dran, dass er weiß dieser Mitarbeiter steht in 
+                   seiner Kontaktliste.
+                     
