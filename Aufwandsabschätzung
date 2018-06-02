@@ -1,0 +1,27 @@
+# lastenheft
+
+Aufwandsabschätzung
+
+->	Was muss alles in diesem Projekt drin sein
+         - aufzählung einzelner Inhalte und welche Funktionen und was für eine Menge an Code ist dafür nötig
+         - Bestimmung der komplexität des Codes. Wie komplex, Schreib- und Denkintensiv, wird der einzelne Code. 
+           Was für schwierigkeitspunkte gibt es zu beachten
+           
+->  An welchen Stellen können schnell Fehler auftreten
+
+->  In welcher Reihenfolge geht man den Code am besten an
+         - Bestimmung der einzelnen Wichtigkeit und des Aufbaus des Codes	
+         - Festlegung in welcher Reihenfolge der Code geschrieben und das Gerüst aufgebaut wird
+         
+->  Abschätzung der länge der einzelnen Abschnitte
+         - wie lange braucht ein Abschnitt bis der Code komplett ist und mit dem nächsten Gerüstteil       
+           begonnen werden kann.
+         - Wo können sich hier Fehler einschleichen, wie kann man das vermeiden
+         
+->  Wie kann man vielleicht Zeit einsparen
+         - Welche Abschnitte/Teile lassen sich vielleicht sinnvoll zusammenfügen um sowohl Code als auch Zeit einzusparen
+         - Wo kann man bestimmtes Zeitaufwändiges vermeiden
+         - Was lässt sich eventuell vermeiden und gleich direkt raus löschen       
+
+
+
